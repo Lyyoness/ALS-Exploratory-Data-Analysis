@@ -6,6 +6,7 @@ In the Git Repository I present the following files:
 - **EEG_Class.ipynb** - Main file with helper functions for data preprocessing and plotting.
 - **Labelling_helper.ipynb** - Helper file for annotation (if the presented annotation UI cannot be used for whatever reason).
 - **Auditory_Stimulation.ipynb** - Intermediary analysis results for testing if the setup for experiment 2 will yield sufficient amounts of data.
+- **Report** - Writeup that presents a Literature review, Methodology, description of the Analysis and Results.
 
 These notebooks demonstrate all data analysis performed for the Capstone Research Project by Michelle Hackl, in collaboration with the University of Vienna, Neuroinformatics Department under Prof. Moritz Grosse-Wentrup. Please only read the code notebooks in conjunction with the writeup, presented alongside them.
 
